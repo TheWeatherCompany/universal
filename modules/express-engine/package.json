@@ -1,5 +1,5 @@
 {
-  "name": "@nguniversal/express-engine",
+  "name": "@twc/nguniversal-express-engine",
   "main": "index.js",
   "types": "index.d.ts",
   "version": "1.0.0-beta.3",
@@ -20,7 +20,7 @@
     "engine-strict": true
   },
   "engines": {
-    "node": ">= 5.4.1 <= 8",
+    "node": ">= 5.4.1 <= 9",
     "npm": ">= 3"
   },
   "scripts": {
